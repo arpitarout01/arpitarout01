@@ -2,10 +2,6 @@
 <h1 align="center">Hey there 👋, I'm Arpita Rout</h1>
 <h3 align="center">💻 Final Year CSE Student | ML & DL Explorer</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F5FF&center=true&vCenter=true&width=435&lines=Machine+Learning+Explorer+🧠;Deep+Learning+Builder+🚀;Always+Learning%2C+Always+Building+💡">
-</p>
-
 ---
 
 ### 🛠️ Tech Stack
