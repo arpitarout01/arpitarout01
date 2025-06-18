@@ -36,7 +36,7 @@
   🔗 [View Project](https://github.com/arpitarout01/amazon-review-sentiment)
 
 - 🌿 **Plant Disease Detection using CNN**  
-  Built a deep learning model to identify 38 types of plant diseases using image classification. Deployed with a user-friendly interface using Streamlit.  
+  Developed a Convolutional Neural Network (CNN) to classify images of plant leaves into 38 categories of diseases. Worked on multi-class classification and model evaluation   using real agricultural data.  
   🔗 [View Project](https://github.com/arpitarout01/Plant-Disease-Detection-CNN)
 
 ---
