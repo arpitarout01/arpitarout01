@@ -29,6 +29,18 @@
 ![NLTK](https://img.shields.io/badge/-NLTK-0d1117?style=for-the-badge&logo=python)
 ![spaCy](https://img.shields.io/badge/-spaCy-0d1117?style=for-the-badge&logo=spacy)
 
+### 🌟 Notable Projects
+
+- 🛍️ **Amazon Review Sentiment Analysis with BERT**  
+  Fine-tuned a pre-trained BERT transformer to classify user reviews as positive or negative, achieving high accuracy on real-world e-commerce data.  
+  🔗 [View Project](https://github.com/arpitarout01/amazon-review-sentiment)
+
+- 🌿 **Plant Disease Detection using CNN**  
+  Built a deep learning model to identify 38 types of plant diseases using image classification. Deployed with a user-friendly interface using Streamlit.  
+  🔗 [View Project](https://github.com/arpitarout01/Plant-Disease-Detection-CNN)
+
+---
+
 ---
 ### 📈 GitHub Stats
 
