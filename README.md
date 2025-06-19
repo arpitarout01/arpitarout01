@@ -1,10 +1,10 @@
 
-<h1 align="center">Hey there 👋, I'm Arpita Rout</h1>
-<h3 align="center">💻 Final Year CSE Student | ML & DL Explorer</h3>
+<h1 align="center">Hey there, I'm Arpita Rout</h1>
+<h3 align="center">Final Year CSE Student | ML & DL Explorer</h3>
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 #### Programming & Web:
 ![Python](https://img.shields.io/badge/-Python-0d1117?style=for-the-badge&logo=python)
@@ -29,20 +29,8 @@
 ![NLTK](https://img.shields.io/badge/-NLTK-0d1117?style=for-the-badge&logo=python)
 ![spaCy](https://img.shields.io/badge/-spaCy-0d1117?style=for-the-badge&logo=spacy)
 
-### 🌟 Notable Projects
-
-- 🛍️ **Amazon Review Sentiment Analysis with BERT**  
-  Fine-tuned a pre-trained BERT transformer to classify user reviews as positive or negative, achieving high accuracy on real-world e-commerce data.  
-  🔗 [View Project](https://github.com/arpitarout01/amazon-review-sentiment)
-
-- 🌿 **Plant Disease Detection using CNN**  
-  Developed a Convolutional Neural Network (CNN) to classify images of plant leaves into 38 categories of diseases. Worked on multi-class classification and model evaluation   using real agricultural data.  
-  🔗 [View Project](https://github.com/arpitarout01/Plant-Disease-Detection-CNN)
-
 ---
-
----
-### 📈 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=arpitarout01&show_icons=true&theme=radical" height="165"/>
@@ -50,8 +38,14 @@
 </p>
 
 ---
+![Arpita's GitHub stats](https://github-readme-stats.vercel.app/api?username=arpitarout01&show_icons=true&theme=radical)
 
-### 📫 Connect With Me
+### Top Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arpitarout01&layout=compact&theme=radical)
+
+
+### Connect With Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arpita-rout-38b814267/)  
 [![Gmail](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arpitarout132@gmail.com)
 
