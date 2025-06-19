@@ -38,12 +38,11 @@
 </p>
 
 ---
-![Arpita's GitHub stats](https://github-readme-stats.vercel.app/api?username=arpitarout01&show_icons=true&theme=radical)
+### GitHub Streak
 
-### Top Languages
+[![GitHub Streak](https://streak-stats.demolab.com?user=arpitarout01&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arpitarout01&layout=compact&theme=radical)
-
+---
 
 ### Connect With Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arpita-rout-38b814267/)  
