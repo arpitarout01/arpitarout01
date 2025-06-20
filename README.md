@@ -38,13 +38,6 @@
 </p>
 
 ---
-### GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=arpitarout01&theme=radical" alt="GitHub Streak"/>
-</p>
-
----
 
 ### Connect With Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arpita-rout-38b814267/)  
