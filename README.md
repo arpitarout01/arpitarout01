@@ -47,6 +47,7 @@
 ### Connect With Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arpita-rout-38b814267/)  
 [![Gmail](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arpitarout132@gmail.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://arpita-portfolio-two-beta-59.vercel.app/)
 
 ---
 
