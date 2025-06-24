@@ -6,32 +6,33 @@
 
 ### Tech Stack
 
-#### Programming & Web:
-![Python](https://img.shields.io/badge/-Python-0d1117?style=for-the-badge&logo=python)
-![C](https://img.shields.io/badge/-C-0d1117?style=for-the-badge&logo=c&logoColor=A8B9CC)
-![C++](https://img.shields.io/badge/-C++-0d1117?style=for-the-badge&logo=cplusplus&logoColor=00599C)
-![C#](https://img.shields.io/badge/-C%23-0d1117?style=for-the-badge&logo=c-sharp&logoColor=239120)
-![Java](https://img.shields.io/badge/-Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=007396)
-![SQL](https://img.shields.io/badge/-SQL-0d1117?style=for-the-badge&logo=postgresql)
-![MySQL](https://img.shields.io/badge/-MySQL-0d1117?style=for-the-badge&logo=mysql)
-![HTML](https://img.shields.io/badge/-HTML5-0d1117?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS3-0d1117?style=for-the-badge&logo=css3)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-0d1117?style=for-the-badge&logo=bootstrap)
-![JavaScript](https://img.shields.io/badge/-JavaScript-0d1117?style=for-the-badge&logo=javascript)
+### Programming & Web
 
-#### ML, DL & Visualization:
-![Jupyter](https://img.shields.io/badge/-Jupyter-0d1117?style=for-the-badge&logo=jupyter)
-![Google Colab](https://img.shields.io/badge/-Google%20Colab-0d1117?style=for-the-badge&logo=googlecolab)
-![Streamlit](https://img.shields.io/badge/-Streamlit-0d1117?style=for-the-badge&logo=streamlit)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logoColor=black)
-![scikit-learn](https://img.shields.io/badge/-Scikit--learn-0d1117?style=for-the-badge&logo=scikit-learn)
-![Pandas](https://img.shields.io/badge/-Pandas-0d1117?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/-NumPy-0d1117?style=for-the-badge&logo=numpy)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-0d1117?style=for-the-badge&logo=matplotlib)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-0d1117?style=for-the-badge&logo=tensorflow)
-![Keras](https://img.shields.io/badge/-Keras-0d1117?style=for-the-badge&logo=keras)
-![NLTK](https://img.shields.io/badge/-NLTK-0d1117?style=for-the-badge&logo=python)
-![spaCy](https://img.shields.io/badge/-spaCy-0d1117?style=for-the-badge&logo=spacy)
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="24"/> Python  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="24"/> C  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="24"/> C++  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="24"/> C#  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="24"/> Java  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="24"/> MySQL  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="24"/> HTML  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="24"/> CSS  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="24"/> Bootstrap  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="24"/> JavaScript  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="24"/> SQL  
+
+### ML, DL & Visualization
+
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="24"/> Jupyter Notebook
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="24"/> Google Colab  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" width="24"/> Streamlit  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="24"/> Pandas  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="24"/> NumPy  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="24"/> TensorFlow  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" width="24"/> Keras  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" width="24"/> Scikit-learn  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="24"/> Matplotlib  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="24"/> NLTK, spaCy  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" width="24"/> Power BI  
 
 ---
 ### GitHub Stats
