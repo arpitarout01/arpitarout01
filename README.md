@@ -31,6 +31,7 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
 ![NLTK](https://img.shields.io/badge/NLTK-9C27B0?style=for-the-badge)
 ![spaCy](https://img.shields.io/badge/spaCy-00A6D6?style=for-the-badge)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ---
@@ -50,4 +51,4 @@
 
 ---
 
-> *"Turning data into impact with code and curiosity."*
+> *"Leveraging a robust foundation in software development and machine learning to solve real-world problems through technology."*
