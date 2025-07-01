@@ -52,4 +52,5 @@
 
 ---
 
-> *"Leveraging a robust foundation in software development and machine learning to solve real-world problems through technology."*
+> “Code is like humor. When you have to explain it, it’s bad.”  
+> — *Cory House*
